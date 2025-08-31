@@ -67,8 +67,7 @@ aside {
     background-color: black;
     float: left;
     margin-top: 99px;
-    height: 80cm;
-    position: fixed;
+    height: 65cm;
 }
 aside > div {
     margin-top: 80px;
@@ -166,7 +165,7 @@ h2 {
 }
 footer {
     background-color: #000000;
-    margin-top: 320px;
+    margin-top: 356px;
     padding: 20px 0;
 }
 footer > p {
