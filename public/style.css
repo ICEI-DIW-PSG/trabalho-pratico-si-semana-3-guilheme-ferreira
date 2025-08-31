@@ -18,6 +18,7 @@ header {
     background-image: url(Imagens/Logo.png);
     background-size: 280px 185px;
     background-repeat: no-repeat;
+    object-fit: cover;
 }
 nav > ul {
     list-style: none;
@@ -35,11 +36,24 @@ nav > ul > li > a {
 }
 .menu {
     margin-top: 0;
+    margin-left: 55%;
 }
 .caixa-pesquisa {
     margin-left: 20%;
     margin-top: 0px;
     font-size: 30px;
+}
+.caixa-pesquisa > button {
+    padding: 5px 20px;
+    border: none;
+    background-color: #00bf63;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.caixa-pesquisa > input {
+    width: 500px;
+    height: 25px;
 }
 main {
     float: right;
@@ -64,7 +78,7 @@ aside > div > ul {
     list-style: none;
 }
 aside > div > ul > li {
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 aside > div > ul > li > a {
     text-decoration: none;
@@ -93,6 +107,12 @@ section {
     object-fit: cover;
     margin-bottom: 150px;
     
+}
+.caixa-produtos1 {
+    margin-top: 100px;
+}
+.caixa-produtos2 {
+    margin-top: 100px;
 }
 .prod {
     margin: 45px;
@@ -146,7 +166,7 @@ h2 {
 }
 footer {
     background-color: #000000;
-    margin-top: 400px;
+    margin-top: 320px;
     padding: 20px 0;
 }
 footer > p {
