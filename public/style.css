@@ -45,6 +45,8 @@ main {
     float: right;
     width: 80%;
     height: auto;
+    margin-top: 10%;
+    margin-right: auto;
 }
 aside {
     width: 20%;
@@ -79,4 +81,66 @@ aside > div > ul > li > a {
     text-transform: uppercase;
     font-weight: bold;
     margin-bottom: 20px;   
+}
+section {
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo2 {
+    width: 60%;
+    height: 300px;
+    margin-left: 20%;
+    object-fit: cover;
+    margin-bottom: 150px;
+    
+}
+.prod {
+    margin: 45px;
+    display: inline-block;  
+    width: 20%;
+    padding: 10px;
+    border: 5px solid #000000; 
+    border-radius: 10px;
+    margin-right: 20px;
+    padding-right: 50px;
+    background-color: #000000;
+}
+.prod > img {
+    width: 255px;
+    height: 200px;
+    object-fit: cover;
+    float: left;
+    margin-bottom: 20px;
+}
+
+.prod > h3 {
+    text-align: center;
+    color: #00bf63;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;  
+    text-transform: uppercase;  
+    margin-left: 40px;    
+}
+.prod > p {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;  
+    text-transform: uppercase;  
+    margin-left: 40px;
+}
+.ver {
+    text-align: right;
+    padding-right: 25px;
+    margin-top: 10px;
+}
+.ver > a {
+    text-decoration: none;
+    color: #00bf63;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 50px;
+    font-style: italic;
 }
