@@ -10,17 +10,21 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Guilherme Ferreira De Lima
+- Matricula: 902424
 - Proposta de projeto escolhida:
+
+Um e-commerce de produtos digitais em modelo de afiliação e autoria própria.
+
 - Breve descrição sobre seu projeto:
 
+O projeto consiste na criação de um site próprio para servir como vitrine de produtos digitais, sejam eles de minha autoria ou dos quais serei afiliado, reunindo em um só espaço cursos, e-books e ferramentas disponíveis para venda online. O objetivo é direcionar tráfego da internet para minha página e facilitar o acesso dos usuários aos produtos, funcionando como um meio de monetização tanto pelas comissões de afiliação quanto pela venda de produtos próprios.
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Print do wireframe criado](/public/Imagens/esboço_site.png)
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Print do home-page criada](/public/Imagens/home-page.png)
